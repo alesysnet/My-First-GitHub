@@ -1,0 +1,8 @@
+How to Install and Run UNetbootin under Ubuntu Linux
+
+Open a terminal (applications > accessories > terminal)
+Type wget unetbootin.sourceforge.net/unetbootin-linux-latest
+Type chmod +x ./unetbootin-linux-*
+Type sudo apt-get install p7zip-full
+Type sudo ./unetbootin-linux-*
+Alternately, you can double click the unetbootin-linux-* file to run it, since it was marked executable in step 3.
